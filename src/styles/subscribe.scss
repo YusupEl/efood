@@ -1,0 +1,44 @@
+.subscribe{
+  padding-bottom: 99px;
+  &__info {
+    background: #ff7A50;
+    color: white;
+    padding: 59px 0 60px;
+    border-radius: 30px;
+  }
+  &__title {
+    @include text (500, 40px, 47px);
+    text-align: center;
+  }
+  &__desc {
+    @include text(400,16px, 30px);
+    text-align: center;
+  }
+  &__btn {
+    @include text (500, 16px, 30px);
+    background: #FF7A50;
+    border-radius: 70px;
+    color: white;
+    padding: 15px 33px 15px 25px;
+    position: absolute;
+    border: none;
+    top: 4.5px;
+    right: 15%;
+    cursor: pointer;
+  }
+  &__label {
+    display: flex;
+    justify-content: center;
+    margin-top: 31px;
+    position: relative;
+  }
+  &__input {
+    width: 835px;
+    padding: 25px 0 25px 43px;
+    background: #FFFFFF;
+    box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.07);
+    border-radius: 70px;
+    border: none;
+
+  }
+}

@@ -1,0 +1,22 @@
+.app{
+  padding-bottom: 166px;
+  &__row {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+  }
+  &__box {
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    width: calc(50% - 10px);
+    &__icon {
+      display: flex;
+      column-gap: 35px;
+
+    }
+    &__img {
+      width: calc(50% - 10px);
+    }
+  }
+}

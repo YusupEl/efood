@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65c849cb-bc5c-40a9-85c0-0349f11bab93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LM8aQFIOQQrJfYBfYKkBrPXnFx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Komp\Desktop\efood\src\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c849cb-bc5c-40a9-85c0-0349f11bab93" name="Default Changelist" comment="" />
+      <created>1675669653750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675669653750</updated>
+      <workItem from="1675669656928" duration="7029000" />
+      <workItem from="1675757903409" duration="17143000" />
+      <workItem from="1675960613785" duration="1824000" />
+      <workItem from="1675962495062" duration="1793000" />
+      <workItem from="1675972182326" duration="2100000" />
+      <workItem from="1676016320411" duration="7000" />
+      <workItem from="1676016434271" duration="368000" />
+      <workItem from="1676017007173" duration="1154000" />
+      <workItem from="1676018199532" duration="809000" />
+      <workItem from="1676019076440" duration="1957000" />
+      <workItem from="1676109563891" duration="924000" />
+      <workItem from="1676110652852" duration="8761000" />
+      <workItem from="1676188327708" duration="6469000" />
+      <workItem from="1676223160975" duration="6000" />
+      <workItem from="1676223204539" duration="2762000" />
+      <workItem from="1676278412788" duration="1224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="229" key="EditFileWatcherDialog" timestamp="1675669719807">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="439" y="229" key="EditFileWatcherDialog/0.0.1600.860@0.0.1600.860" timestamp="1675669719806" />
+    <state x="303" y="75" key="SettingsEditor" timestamp="1675669820031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1675669820031" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1675848725036">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1675848725036" />
+  </component>
+</project>

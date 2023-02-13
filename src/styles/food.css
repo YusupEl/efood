@@ -1,0 +1,17 @@
+/* Error: 33.33333% and 28.66666px have incompatible units.
+ *    ,
+ * 11 |     width: call(33.33333% - 28.66666px);
+ *    |                 ^^^^^^^^^^^^^^^^^^^^^^
+ *    '
+ *   food.scss 11:17  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: 33.33333% and 28.66666px have incompatible units.\a    \2577 \a 11 \2502      width: call(33.33333% - 28.66666px);\d\a    \2502                  ^^^^^^^^^^^^^^^^^^^^^^\a    \2575 \a   food.scss 11:17  root stylesheet";
+}

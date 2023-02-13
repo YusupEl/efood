@@ -1,0 +1,10 @@
+.app {
+  padding-bottom: 166px;
+}
+.app__row {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
+
+/*# sourceMappingURL=app.css.map */
